@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">Kotlin_lesson1</string>
+    <string name="app_name">Lesson_1</string>
+    <string name="button">Button</string>
 </resources>
